@@ -1,0 +1,61 @@
+body {
+    overflow-x: hidden;
+    overflow-y: scroll;
+/** background-color:rgba(99, 110, 114,0.5) !important;*/
+ 
+       
+} 
+
+.bg-img{
+    background-image: url(image/bad.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 600px;
+    box-shadow: 0 4px 8px 0 ;
+}
+.text{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Mada', sans-serif;
+    color: white;
+}
+.text1{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Mada', sans-serif;
+    color: white;
+   
+    
+}
+span{
+
+    background-color: green;
+}
+.cita{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Mada', sans-serif;
+    color:yellow;
+    border:solid;
+    border-color:green;
+    background-color:rgba(45, 52, 54,0.8);
+    padding: 60px;
+}
+q{
+    color: whitesmoke;
+    
+}
+.image1{
+    height: 100%;
+    width: 100%;
+    box-shadow: 0 4px 8px 0 ;
+    
+}
+.apr{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Mada', sans-serif;
+}
+.text2{
+    
+}
