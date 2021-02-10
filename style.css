@@ -1,7 +1,7 @@
 body {
     overflow-x: hidden;
     overflow-y: scroll;
-/** background-color:rgba(99, 110, 114,0.5) !important;*/
+ background-color:black !important;
  
        
 } 
@@ -50,12 +50,35 @@ q{
     width: 100%;
     box-shadow: 0 4px 8px 0 ;
     
+    
 }
 .apr{
     text-align: center;
     font-size: 35px;
     font-family: 'Mada', sans-serif;
+    color: darkgoldenrod;
 }
 .text2{
+    font-family: 'Playfair Display', serif;
+font-weight: italic;
+color: blanchedalmond;
+
+}
+.video{
+    height: 300px;
+    width: 400px;
+    background-color: blanchedalmond;
+    
+}
+section{
+    color: blanchedalmond;
+    background-color:rgba(45, 52, 54,0.7);
+}
+.footer{
+    font-weight: bold;
+}
+.kk{
+    width: 250px;
+    box-shadow: 0 4px 8px 0 ;
     
 }
